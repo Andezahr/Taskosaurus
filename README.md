@@ -1,4 +1,4 @@
-# Task Service (Resource Server)
+# Task Service Pet-project
 
 Microservice for task management with OAuth2 security and event-driven architecture
 
