@@ -6,8 +6,8 @@ Microservice for task management with OAuth2 security and event-driven architect
 
 - **Core**: Java 23, Spring Boot 3.4
 - **Security**: Spring Security, OAuth2 Resource Server, JWT
-- **Database**: MongoDB 6.0+
-- **Messaging**: Apache Kafka 3.0+
+- **Database**: MongoDB 
+- **Messaging**: Apache Kafka 
 - **Tooling**: Lombok, Maven
 
 ## 📋 Key Features
@@ -15,5 +15,4 @@ Microservice for task management with OAuth2 security and event-driven architect
 - JWT-based authentication/authorization
 - MongoDB document storage for tasks
 - Kafka event streaming for task operations
-- CORS configuration for frontend integration
 - OAuth2 resource server configuration
